@@ -22,4 +22,7 @@ This is my second commit!!!
 
 **Images**
 **Remove images**
-![An image of a cat](https://placekitten.com/200/300)
+![An image of a cat](https://placekitten.com/200/300.jpg)
+**Local image**
+
+![The Mona Lisa](readmeImages/1.jpg)
