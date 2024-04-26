@@ -13,9 +13,13 @@ This is my second commit!!!
 
 *Italic text*
 
+
 **Lists**
 - Item 1
 - Item 2
   - Sub item 1
   - Sub item 2
- 
+
+**Images**
+**Remove images**
+![An image of a cat](https://placekitten.com/200/300)
