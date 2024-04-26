@@ -26,3 +26,7 @@ This is my second commit!!!
 **Local image**
 
 ![The Mona Lisa](readmeImages/1.jpg)
+
+```
+This is a code block!
+```
